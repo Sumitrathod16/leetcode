@@ -13,4 +13,8 @@
 |  |
 | ------- |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sumitrathod16/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/Sumitrathod16/leetcode/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
