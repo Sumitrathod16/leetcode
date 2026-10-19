@@ -33,6 +33,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sumitrathod16/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sumitrathod16/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Tree
 |  |
@@ -63,4 +64,16 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sumitrathod16/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sumitrathod16/leetcode/tree/master/0005-longest-palindromic-substring) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sumitrathod16/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sumitrathod16/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
