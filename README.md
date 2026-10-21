@@ -38,6 +38,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sumitrathod16/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sumitrathod16/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1871-jump-game-vii](https://github.com/Sumitrathod16/leetcode/tree/master/1871-jump-game-vii) |
 ## Tree
 |  |
 | ------- |
@@ -78,6 +79,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sumitrathod16/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Sumitrathod16/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Sumitrathod16/leetcode/tree/master/0006-zigzag-conversion) |
+| [1871-jump-game-vii](https://github.com/Sumitrathod16/leetcode/tree/master/1871-jump-game-vii) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Sumitrathod16/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Manacher
 |  |
@@ -87,4 +89,9 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sumitrathod16/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1871-jump-game-vii](https://github.com/Sumitrathod16/leetcode/tree/master/1871-jump-game-vii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/Sumitrathod16/leetcode/tree/master/1871-jump-game-vii) |
 <!---LeetCode Topics End-->
