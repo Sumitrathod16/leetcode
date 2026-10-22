@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Sumitrathod16/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sumitrathod16/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sumitrathod16/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Sumitrathod16/leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
