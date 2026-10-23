@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Sumitrathod16/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sumitrathod16/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sumitrathod16/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Sumitrathod16/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Sumitrathod16/leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
@@ -97,4 +98,8 @@
 |  |
 | ------- |
 | [1871-jump-game-vii](https://github.com/Sumitrathod16/leetcode/tree/master/1871-jump-game-vii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Sumitrathod16/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 <!---LeetCode Topics End-->
