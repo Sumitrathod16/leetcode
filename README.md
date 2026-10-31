@@ -18,6 +18,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Sumitrathod16/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sumitrathod16/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Sumitrathod16/leetcode/tree/master/0012-integer-to-roman) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sumitrathod16/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sumitrathod16/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Sorting
@@ -32,6 +33,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Sumitrathod16/leetcode/tree/master/0012-integer-to-roman) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sumitrathod16/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Divide and Conquer
 |  |
@@ -86,6 +88,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sumitrathod16/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Sumitrathod16/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Sumitrathod16/leetcode/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/Sumitrathod16/leetcode/tree/master/0012-integer-to-roman) |
 | [1871-jump-game-vii](https://github.com/Sumitrathod16/leetcode/tree/master/1871-jump-game-vii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sumitrathod16/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Sumitrathod16/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
